@@ -21,3 +21,10 @@ PyCon Korea 2015에서 발표된 [한국어와 NLTK, Gensim](https://www.lucypar
     - python doc2vec_test.py
   - 검증까지 완료된 모델을 통해 실제 리뷰로 테스트
     - python doc2vec_run.py    
+
+
+Mac/Ubuntu
+```
+$ pip install konlpy
+$ conda install -c conda-forge jpype1
+```
